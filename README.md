@@ -19,11 +19,17 @@ Choiizuka AITeam 2026 Roadmap Indicator : CHOIIZUKA+AI軍団によるNobunaga OS
 ## ディレクトリ構造
 
 /Choiizuka+AITeam-2026-Roadmap-Indicator
+
 ├─ README.md           # この計画の説明と現在地
+
 ├─ data/
+
 │   └─ progress.json   # 週次更新する生データ
+
 ├─ docs/
+
 │   └─ index.html      # GitHub Pagesでグラフ表示
+
 └─ LICENSE             # MITでOK。改竄されても本体は消えない
 
 ---
