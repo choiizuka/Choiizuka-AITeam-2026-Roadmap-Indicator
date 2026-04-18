@@ -7,7 +7,7 @@ Choiizuka AITeam 2026 Roadmap Indicator : CHOIIZUKA+AI軍団によるNobunaga OS
 
 2026年度Choiizuka+AI軍団による事前予告したミッションの進捗報告リポジトリ
 
-## 発表済み予定
+## 発表済み予定(2026.4.19時点)
 
 - 幸福度スキャンシステム:https://choappceo.wordpress.com/2026/03/21/global-happiness-scan-20260321/
 - GPT-120B報告:https://choappceo.wordpress.com/2026/03/24/amd-ryzen-threadripper-gpt-120b-20260324/
