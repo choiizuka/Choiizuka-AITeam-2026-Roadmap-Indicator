@@ -15,7 +15,8 @@ Choiizuka AITeam 2026 Roadmap Indicator : CHOIIZUKA+AI軍団によるNobunaga OS
 - 全宇宙一幸せ:https://choappceo.wordpress.com/2026/03/30/choiizukadream2026/
 - アーティスト支援:https://choappceo.wordpress.com/2026/04/01/aprilfool-webcreation-musicislife2026/
 - 奇跡の積み上げ:https://choappceo.wordpress.com/2026/04/11/ai-tenka-fubu-manifesto/
-- 夢の国:https://choappceo.wordpress.com/2026/04/11/a-positive-promise-in-one-year/
+  バーチャル夢の国実現:https://choappceo.wordpress.com/2026/04/08/choiizuka-world/
+- 夢の国計画:https://choappceo.wordpress.com/2026/04/11/a-positive-promise-in-one-year/
 - 実績獲得:https://choappceo.wordpress.com/2026/04/12/roadmap-promised-achievements-for-20262027/
 
 ---
