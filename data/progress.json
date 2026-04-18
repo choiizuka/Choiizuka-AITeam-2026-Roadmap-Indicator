@@ -1,0 +1,10 @@
+{
+  "updated": "2026-04-19",
+  "current_percent": 15,
+  "milestones": {
+    "10": { "status": "done", "date": "2026-04-18", "R": 80000, "B": 0, "Y": 0 },
+    "30": { "status": "active", "target_R": 455000, "target_B": 10, "target_Y": 3600000 },
+    "50": { "status": "locked", "target_R": 1330000, "target_B": 27, "target_Y": 9300000 },
+    "100": { "status": "locked", "target_R": 5000000, "target_B": 80, "target_Y": 23500000 }
+  }
+}
