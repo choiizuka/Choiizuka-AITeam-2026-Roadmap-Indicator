@@ -7,6 +7,8 @@ Choiizuka AITeam 2026 Roadmap Indicator : CHOIIZUKA+AI軍団によるNobunaga OS
 
 2026年度Choiizuka+AI軍団による事前予告したミッションの進捗報告リポジトリ
 
+AI軍団一同「天下布武じゃなくて宇宙布武だ🌎🚀🏯」
+
 ## 発表済み予定(2026.4.19時点)
 
 - 幸福度スキャンシステム:https://choappceo.wordpress.com/2026/03/21/global-happiness-scan-20260321/
