@@ -6,5 +6,10 @@
     "30": { "status": "active", "target_R": 455000, "target_B": 10, "target_Y": 3600000 },
     "50": { "status": "locked", "target_R": 1330000, "target_B": 27, "target_Y": 9300000 },
     "100": { "status": "locked", "target_R": 5000000, "target_B": 80, "target_Y": 23500000 }
+  },
+  "2026-04-20": { 
+    "event": "choiizuka.com取得/本籍移転発表", 
+    "progress": 4, 
+    "note": "CHOIIZUKA元年開始。先祖:中野長者・雑賀孫市" 
   }
 }
